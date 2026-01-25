@@ -9,8 +9,8 @@ The block that shows script error notifications has been commented out, so error
 ![as](https://s12.gifyu.com/images/bkkit.gif)
 
 ## Installation
-
-Open the archive and move the `lua` folder into your `GarrysMod/garrysmod` directory.
+First, download the archive from this link: https://github.com/dx9sdk/senr/releases/download/senr/senr.7z  
+Then, open the archive and move the `lua` folder into your `GarrysMod/garrysmod` directory.
 
 ![i](https://s12.gifyu.com/images/bkkjp.gif)
 
