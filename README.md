@@ -19,7 +19,7 @@ Open the archive and move the `lua` folder into your `GarrysMod/garrysmod` direc
 MIT License!
 
 
-Copyright (c) 2025 theurg1st
+Copyright (c) 2025 dx9sdk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
