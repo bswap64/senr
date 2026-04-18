@@ -16,5 +16,5 @@ Then, open the archive and move the `lua` folder into your `GarrysMod/garrysmod`
 
 ## Authors
 
-- [@dx9sdk](https://www.github.com/dx9sdk)
+- [@vulkansdk](https://www.github.com/vulkansdk)
 
